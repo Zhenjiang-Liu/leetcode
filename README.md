@@ -6,3 +6,4 @@ To record the problem's solution using python.
 1. 两数之和: twoSum
 2. 两数相加: addTwoNumbers
 3. 无重复字符的最长子串: lengthOfLongestSubstring
+4. 寻找两个有序数组的中位数：findMedianSortedArrays
