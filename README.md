@@ -10,3 +10,4 @@ To record the problem's solution using python.
 5. 最长回文子串: longestPalindrome
 6. Z字形变换：convert
 7. 整数翻转：reverse
+8. 字符串转换整数 (atoi)：myAtoi
