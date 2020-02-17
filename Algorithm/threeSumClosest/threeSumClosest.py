@@ -15,7 +15,7 @@ class Solution(object):
             if delta > 0:
                 if abs(delta) < abs(least_delta):
                     least_delta = delta
-                continue
+                break
             delta = nums[i] + nums[length-2] + nums[length-1] - target
             if delta < 0:
                 if abs(delta) < abs(least_delta):
@@ -33,4 +33,4 @@ class Solution(object):
                 if abs(delta) < abs(least_delta):
                     least_delta = delta
                 delta = nums[i] + nums[forward] + nums[backward] - target
-        return (target + least_delta)
+        return target + least_delta

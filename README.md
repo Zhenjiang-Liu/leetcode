@@ -20,4 +20,9 @@ No  | Title | difficulty | Type | link
 13 | 罗马数字转整数 | 简单 | Algorithm | [romanToInt](Algorithm/romanToInt/romanToInt.py)
 14 | 最长公共前缀 | 简单 | Algorithm | [longestCommonPrefix](Algorithm/longestCommonPrefix/longestCommonPrefix.py)
 15 | 三数之和 | 中等 | Algorithm | [threeSum](Algorithm/threeSum/threeSum.py)
-16 | 最接近的三数之和 | 中等 | Algorithm | [threeSumClosest](/Algorithm/threeSumClosest/threeSumClosest.py)
+16 | 最接近的三数之和 | 中等 | Algorithm | [threeSumClosest](Algorithm/threeSumClosest/threeSumClosest.py)
+17 | 电话号码的字母组合 | 中等 | Algorithm | [letterCombinations](Algorithm/letterCombinations/letterCombinations.py)
+18 | 四数之和 | 中等 | Algorithm | [fourSum](Algorithm/fourSum/fourSum.py)
+19 | 删除链表的倒数第N个节点 | 中等 | Algorithm | [removeNthFromEnd](Algorithm/removeNthFromEnd/removeNthFromEnd.py)
+20 | 有效的括号 | 中等 | Algorithm | [isValid](Algorithm/isValid/isValid.py)
+
