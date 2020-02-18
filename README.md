@@ -25,4 +25,5 @@ No  | Title | difficulty | Type | link
 18 | 四数之和 | 中等 | Algorithm | [fourSum](Algorithm/fourSum/fourSum.py)
 19 | 删除链表的倒数第N个节点 | 中等 | Algorithm | [removeNthFromEnd](Algorithm/removeNthFromEnd/removeNthFromEnd.py)
 20 | 有效的括号 | 中等 | Algorithm | [isValid](Algorithm/isValid/isValid.py)
-
+21 | 合并两个有序链表 | 简单 | Algorithm | [mergeTwoLists](Algorithm/mergeTwoLists/mergeTwoLists.py)
+22 | 括号生成 | 中等 | Algorithm | [generateParenthesis](Algorithm/generateParenthesis/generateParenthesis.py)
