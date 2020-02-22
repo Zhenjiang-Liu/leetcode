@@ -13,7 +13,6 @@ class Solution(object):
         :rtype: ListNode
         """
         prehead = ListNode(-1)
-
         prev = prehead
         while l1 and l2:
             if l1.val <= l2.val:

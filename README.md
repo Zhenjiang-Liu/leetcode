@@ -27,3 +27,6 @@ No  | Title | difficulty | Type | link
 20 | 有效的括号 | 中等 | Algorithm | [isValid](Algorithm/isValid/isValid.py)
 21 | 合并两个有序链表 | 简单 | Algorithm | [mergeTwoLists](Algorithm/mergeTwoLists/mergeTwoLists.py)
 22 | 括号生成 | 中等 | Algorithm | [generateParenthesis](Algorithm/generateParenthesis/generateParenthesis.py)
+23 | 合并K个排序列表 | 困难 | Algorithm | [mergeKLists](Algorithm/mergeKLists/mergeKLists.py)
+24 | 两两交换链表中的节点 | 中等 | Algorithm | [swapPairs](Algorithm/swapPairs/swapPairs.py)
+ 
